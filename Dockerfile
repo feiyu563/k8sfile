@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/elasticsearch:v5.6.4
+FROM gcr.mirrors.ustc.edu.cn/google_containers/kubernetes-zookeeper:1.0-3.4.10
