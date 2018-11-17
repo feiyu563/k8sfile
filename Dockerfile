@@ -1,1 +1,1 @@
-FROM quay.io/smile/redis:4.0.6r2
+FROM registry.us-east-1.aliyuncs.com/myk8simages/jupyterlab-for-stu:v4
