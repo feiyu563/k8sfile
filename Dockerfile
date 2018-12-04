@@ -1,1 +1,1 @@
-FROM registry.us-east-1.aliyuncs.com/myk8simages/jupyterlab-for-stu:v4
+FROM gcr.io/kubernetes-helm/tiller:v2.11.0
