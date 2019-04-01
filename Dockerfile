@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.11.0
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
