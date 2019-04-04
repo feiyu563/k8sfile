@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.13.1
+FROM quay.io/external_storage/rbd-provisioner:v0.1.1
